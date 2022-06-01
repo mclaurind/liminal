@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fish_Perch Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Fish_Perch_LOD0
+    m_Weight: 0
+  - m_Path: Head_Root
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01
+    m_Weight: 0
+  - m_Path: Head_Root/Spine_01/Spine_02
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Tail_fin
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Tail_fin/Tail_fin_up
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/Spine_06/Tail_fin/Tail_fin_down
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/connectBone013
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/connectBone013/Soft_dorsal_fin_02
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/connectBone014
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/connectBone014/Soft_dorsal_fin_01
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/connectBone018
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/connectBone018/Anal_fin_01
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/Spine_04/Spine_05/connectBone018/Anal_fin_01/Anal_fin_02
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/connectBone015
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/connectBone015/Spiny_dorsal_fin-04
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/connectBone016
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/Spine_02/Spine_03/connectBone016/Spiny_dorsal_fin-03
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone08R
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone08R/Pectoral_Fin_R
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone09R
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone09R/Plevic_fin_R_01
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone09R/Plevic_fin_R_01/Plevic_fin_R_02
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone08L
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone08L/Pectoral_Fin_L
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone009
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone009/Spiny_dorsal_fin-02
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone09R(mirrored)
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone09R(mirrored)/Plevic_fin_L_01
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone09R(mirrored)/Plevic_fin_L_01/Plevic_fin_L_02
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone017
+    m_Weight: 1
+  - m_Path: Head_Root/Spine_01/connectBone017/Spiny_dorsal_fin-01
+    m_Weight: 1
+  - m_Path: Head_Root/connectBone012
+    m_Weight: 0
+  - m_Path: Head_Root/connectBone012/Jaw
+    m_Weight: 1
+  - m_Path: Fish_Perch_LOD1
+    m_Weight: 0

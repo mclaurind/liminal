@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d559ec07676f794ea460d4324322121, type: 3}
+  m_Name: RAM_Road Profile Sand
+  m_EditorClassIdentifier: 
+  splineMaterial: {fileID: 2100000, guid: f188fc35b54c2994dbf8433317647c39, type: 2}
+  meshCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.002576001
+      value: -0.048367884
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.0062243156
+      value: -0.012603801
+      inSlope: 0.054176286
+      outSlope: 0.054176286
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.06876275
+      value: 0.008509984
+      inSlope: 0.009193429
+      outSlope: 0.009193429
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.2061864
+      value: 0.009113623
+      inSlope: 0.008182
+      outSlope: 0.008182
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.50965655
+      value: -0.004301276
+      inSlope: -0.0090152025
+      outSlope: -0.0090152025
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.75402486
+      value: 0.008857124
+      inSlope: 0.0038824955
+      outSlope: 0.0038824955
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.9077889
+      value: 0.007984851
+      inSlope: -0.009828847
+      outSlope: -0.009828847
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.86635756
+    - serializedVersion: 3
+      time: 0.9719254
+      value: -0.004418265
+      inSlope: -0.072168805
+      outSlope: -0.072168805
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.9764992
+      value: -0.050107386
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  minVal: 0.5
+  maxVal: 0.5
+  vertsInShape: 6
+  traingleDensity: 0.125
+  uvScale: 1
+  uvRotation: 1
+  receiveShadows: 1
+  shadowCastingMode: 0
+  flowFlat:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.025
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.5
+      value: 0.05
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0.025
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  flowWaterfall:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0.25
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0.25
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  noiseflowMap: 0
+  noiseMultiplierflowMap: 0.1
+  noiseSizeXflowMap: 2
+  noiseSizeZflowMap: 2
+  floatSpeed: 10
+  terrainCarve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 10
+      value: -2
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  distSmooth: -0.24
+  distSmoothStart: 1
+  terrainPaintCarve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.18734741
+      value: -0.0015106201
+      inSlope: 1.1011826
+      outSlope: 1.1011826
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.09153057
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  maskCarve:
+    serializedVersion: 2
+    m_Bits: 1
+  noiseCarve: 0
+  noiseMultiplierInside: 1
+  noiseMultiplierOutside: 0.25
+  noiseSizeX: 0.2
+  noiseSizeZ: 0.2
+  terrainSmoothMultiplier: 5
+  currentSplatMap: 4
+  mixTwoSplatMaps: 0
+  secondSplatMap: 1
+  addCliffSplatMap: 1
+  cliffSplatMap: 7
+  cliffAngle: 30
+  cliffBlend: 1
+  cliffSplatMapOutside: 7
+  cliffAngleOutside: 45
+  cliffBlendOutside: 1
+  distanceClearFoliage: 1
+  distanceClearFoliageTrees: 1
+  noisePaint: 0
+  noiseMultiplierInsidePaint: 0.25
+  noiseMultiplierOutsidePaint: 0.25
+  noiseSizeXPaint: 0.2
+  noiseSizeZPaint: 0.2
+  simulatedRiverLength: 100
+  simulatedRiverPoints: 10
+  simulatedMinStepSize: 1
+  simulatedNoUp: 0
+  simulatedBreakOnUp: 1
+  noiseWidth: 0
+  noiseMultiplierWidth: 4
+  noiseSizeWidth: 0.5
+  biomeType: 0
